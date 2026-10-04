@@ -101,14 +101,54 @@ A complete mod manager for EA FC and FIFA games.
 **Does it work with FC 27?**  
 Yes.
 
-**Archive password?**  
-`2026`
 
 **How do I uninstall?**  
 Use the built-in restore option or delete the folder manually.
 
 ---
 
-## License
+## 🔍 SEO Keywords & Tags
 
-MIT
+fc27 mod manager, fc 27 mod manager, fc26 mod manager, fc 26 mod manager, fc25 mod manager, fc 25 mod manager, fc24 mod manager, fifa mod manager, fifa 27 mod manager, fifa 26 mod manager, fc mod manager, fifa live editor, fc live editor, ea sports fc mods, ea fc 27 mods, ea fc 26 mods, fifamod, fbmod, fifa mod tool, fc mod loader, fc mod organizer, fc mod installer, fifa modding, career mode mods, gameplay mods, visual mods, face mods, kit mods, stadium mods, bepinex fifa, fifa database editor, fc live editor 27, fc live editor 26, fifa live editor 23, fifa mod install, fifa mod download, fc mod manager download, fifa mod manager 2026, fifa 19 mods, fifa 20 mods, fifa 21 mods, fifa 22 mods, fifa 23 mods, fifa modding community, fc modding community, fifa trainer, fc trainer, fifa mod nexus, fc mod nexus, fifa mods github, fc mods github
+
+---
+
+## 📁 Repository Structure
+
+FC27-Mod-Manager/
+├── src/                   # Main application source
+├── docs/                  # Documentation source
+├── assets/                # Icons, images, branding
+├── plugins/               # Extensible plugin system
+├── configs/               # Default config files
+├── tests/                 # Unit and integration tests
+├── .github/               # CI/CD workflows
+├── LICENSE
+├── README.md
+└── CONTRIBUTING.md
+
+---
+
+## 🤝 Contributing
+
+We welcome contributions from the community! See our [Contributing Guidelines](CONTRIBUTING.md) for details.
+
+Areas needing help:
+- Plugin development
+- Documentation translation
+- UI/UX improvements
+- Mod compatibility testing
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+
+---
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME/FC27-Mod-Manager">
+    <img src="https://img.shields.io/badge/Made%20with%20⚽️%20for%20the%20EA%20FC%20%26%20FIFA%20Community-1ABC9C?style=for-the-badge" alt="Made with love">
+  </a>
+</p>
